@@ -11,7 +11,7 @@ TODO steps:
 - [X] Reserach
     - [X] Hunt for smiliar projects
     - [X] Hunt for ways in which data can be entered into target websites quickly, easily and accurately
-    
+
     https://stackoverflow.com/questions/1555234/fill-form-values-in-a-web-page-via-a-python-script-not-testing
     https://learn.onemonth.com/automate-web-forms-with-python/
     https://www.thepythoncode.com/article/extracting-and-submitting-web-page-forms-in-python
@@ -21,9 +21,11 @@ TODO steps:
 
     https://www.reddit.com/r/Python/comments/75v4bx/using_python_to_automate_data_entry/
     https://github.com/SeanDaBlack/ChangeisBrewing
-- [] Development
-    - [] Do text input for the various parameters, by cli and/or file, perhaps an option?
+- [-] Development
+    - [X] Do text input for the various parameters, by cli and/or file, perhaps an option?
     - [] Do a POC for the ability to enter data into a site and grab stuff, experiment and become familiar with the concepts and such
+        - [] Review gathered research at large, listed above and in book marks as well
+        - [] Experiment and make my POC
     - [] Find various target sites
         - [] Used car
         - [] Pyramid Scheme
